@@ -49,4 +49,4 @@ switch (randomNumber) {
 }
 
 // loged to the console
-console.log(eightBall)
+console.log(`Hello ${userName} your eight ball is ${eightBall}`)
